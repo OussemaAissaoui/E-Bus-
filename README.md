@@ -2,8 +2,8 @@
 # E-Bus- 
 E-Bus est une simple application cmd , écrite en langage C, assure la réservation d’un bus pour faire un voyage. Elle permet de gérer les bus, les réservations, et les voyageurs. (Vous pouvez utiliser les structures de données avancées pour le stockage des données)
 E-Election assure aussi les tâches suivantes :
--Créer un nouveau compte voyageur.
--Créer une nouvelle réservation.
+-Créer un nouveau compte voyageur.\n
+-Créer une nouvelle réservation.\n
 -Afficher les détails des bus.
 -Afficher et modifier les détails d’une réservation.
 ![Interface](https://github.com/OussemaAissaoui/E-Bus-/assets/154243468/b16dccf9-2248-4592-8d5c-8f1552052495)
