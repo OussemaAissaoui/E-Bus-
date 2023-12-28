@@ -6,7 +6,11 @@ E-Election assure aussi les tâches suivantes :
 -Créer une nouvelle réservation.  
 -Afficher les détails des bus.  
 -Afficher et modifier les détails d’une réservation.  
+# compt voy.txt (avant compilation)
+![compt fich](https://github.com/OussemaAissaoui/E-Bus-/assets/154243468/afbd4a2b-d255-49c7-8d9c-98b9207f7e43)
+# reservation.txt (avant compilation)
 ![Interface](https://github.com/OussemaAissaoui/E-Bus-/assets/154243468/b16dccf9-2248-4592-8d5c-8f1552052495)
+
 # Ajout de compt voyageur 
 ![ajout compt](https://github.com/OussemaAissaoui/E-Bus-/assets/154243468/18a3127c-a4f6-4848-ba9e-1c225d35fd56)
 # Ajout de nouvel reservation
