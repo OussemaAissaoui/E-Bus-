@@ -9,7 +9,7 @@ E-Election assure aussi les tâches suivantes :
 # compt voy.txt (avant compilation)
 ![compt fich](https://github.com/OussemaAissaoui/E-Bus-/assets/154243468/afbd4a2b-d255-49c7-8d9c-98b9207f7e43)
 # reservation.txt (avant compilation)
-![Interface](https://github.com/OussemaAissaoui/E-Bus-/assets/154243468/b16dccf9-2248-4592-8d5c-8f1552052495)
+![reservation txt](https://github.com/OussemaAissaoui/E-Bus-/assets/154243468/51e15cec-9e48-463d-8fb1-052b05ba94e3)
 # bus.txt
 ![bus txt](https://github.com/OussemaAissaoui/E-Bus-/assets/154243468/58dd9739-f480-439b-9c7c-cb512a1fd05b)
 # Ajout de compt voyageur 
